@@ -1,4 +1,5 @@
-Biggest-Animated-DS-Visualizer
+Animated-DS-Visualizer
+---------------------
 
 AI-powered C++ platform to visualize, animate, and explore core data structures with interactive, exportable workflows.
 
